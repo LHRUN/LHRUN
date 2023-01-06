@@ -1,5 +1,5 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<h2>Hello there 👋</h3>
+<h2>👋 Hello there</h3>
 <p>👨‍💻 I'm a Frontend Engineer. I like to try new technologies and develop some interesting open source projects</p>
 <p>📜 My website：<a href="https://songlh.top/" target="_blank">songlh.top</a>. will write some technical blogs and life records</p>
 <p>🌱 I’m currently learning web3</p>
@@ -23,12 +23,12 @@
 </p>
 
 
-<h2>Summary</h3>
+<h2>🤔 Summary</h3>
 
 <p style="display: flex;align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LHRUN&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LHRUN&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHRUN&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=LHRUN.github.io" >
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHRUN&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=LHRUN.github.io" >
 </p>
 
 
