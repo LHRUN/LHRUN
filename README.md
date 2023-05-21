@@ -1,8 +1,8 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <h2>👋 Hello there</h3>
-<p>👨‍💻 I'm a Frontend Engineer. I like to try new technologies and develop some interesting open source projects</p>
+<p>👨‍💻 I'm a Frontend Developer. I like to try new technologies and develop some interesting open source projects</p>
 <p>📜 My website：<a href="https://songlh.top/" target="_blank">songlh.top</a>. will write some technical blogs and life records</p>
-<p>🌱 I’m currently learning web3</p>
+<p>🌱 I’m currently studying english</p>
 <!-- <p>📝 平台主页：<a href="https://blog.csdn.net/weixin_44719258" target="_blank">CSDN</a>，<a href="https://segmentfault.com/u/lh_s" target="_blank">SegmentFault</a>，<a href="https://juejin.cn/user/3949101499549518" target="_blank" >掘金</a>，<a href="https://www.zhihu.com/people/wxae77cceaa49dcaf5" target="_blank">知乎</a><p> -->
 <h2>🛠 Languages and tools</h3>
 <p>
