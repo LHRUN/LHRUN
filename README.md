@@ -1,11 +1,13 @@
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<h2>👋 Hello there</h3>
-<p>👨‍💻 I'm a Frontend Developer. I like to try new technologies and develop some interesting open source projects</p>
-<p>📜 blog：<a href="https://songlh.top/" target="_blank">songlh.top</a>. will write some technical blogs and life records</p>
-<p>😁 website：<a href="https://about.songlh.top/" target="_blank">about.songlh.top</a>. you can get to know me completely.</p>
+<p align="center">👨‍💻 I'm Leo, a front-end developer who loves open source and life</p>
 
-<!-- <p>📝 平台主页：<a href="https://blog.csdn.net/weixin_44719258" target="_blank">CSDN</a>，<a href="https://segmentfault.com/u/lh_s" target="_blank">SegmentFault</a>，<a href="https://juejin.cn/user/3949101499549518" target="_blank" >掘金</a>，<a href="https://www.zhihu.com/people/wxae77cceaa49dcaf5" target="_blank">知乎</a><p> -->
-<h2>🛠 Languages and tools</h3>
+<p align="center">
+  <a href="https://about.songlh.top">me</a> .
+  <a href="https://songlh.top">blog</a> .
+  <a href="mailto:song.lhlh@gmail.com">email</a> .
+  <a href="https://space.bilibili.com/317136468">bilibili</a>
+</p>
+
+<h4 align="center">My Tech Stack</h4>
 <p>
   <img src="https://img.shields.io/badge/-React-00599C?logo=React&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/-Vue-000000?logo=Vue.js&style=for-the-badge" /> 
@@ -25,29 +27,9 @@
   <img alt="Echarts" src="https://img.shields.io/badge/-Echarts-F8EDE3?&style=for-the-badge&logo=apacheecharts&logoColor=D91656" /> 
 </p>
 
+<h4 align="center">Summary</h3>
 
-<h2>🤔 Summary</h3>
-
-<p style="display: flex;align-items: center;">
+<div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=LHRUN&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHRUN&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=LHRUN.github.io" >
-</p>
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHRUN&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=LHRUN.github.io)](https://github.com/devSouvik/github-readme-stats) -->
-
-<!--
-**LHRUN/LHRUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHRUN&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=LHRUN.github.io" >
+</div>
