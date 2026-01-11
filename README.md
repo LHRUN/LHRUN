@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://about.songlh.top">me</a> .
   <a href="https://songlh.top">blog</a> .
+  <a href="https://lens.songlh.top">photos</a> .
   <a href="mailto:song.lhlh@gmail.com">email</a> .
   <a href="https://space.bilibili.com/317136468">bilibili</a>
 </p>
